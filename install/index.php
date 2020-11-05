@@ -3,10 +3,10 @@
 /**
  * Class Test
  */
-class test_test extends CModule
+class newtest_newtest extends CModule
 {
-    const DIRECTORY = 'local/modules/test.test/install';
-    const ID = 'test_test';
+    const DIRECTORY = 'local/modules/newtest.newtest/install';
+    const ID = 'newtest_newtest';
     const ALL_USERS_GROUP_ID = 2;
     const READ_PERMISSION = 'R';
     const DOCUMENTS_INFOBLOCK_CODE = 'DOCUMENTS';
@@ -64,7 +64,7 @@ class test_test extends CModule
     const DATE_TIME_INFOBLOCK_PROPERTY_USER_TYPE = 'DateTime';
     const USER_INFOBLOCK_PROPERTY_USER_TYPE = 'UserID';
 
-    var $MODULE_ID = "test.test";
+    var $MODULE_ID = "newtest.newtest";
     var $MODULE_VERSION;
     var $MODULE_VERSION_DATE;
     var $MODULE_NAME;
@@ -333,9 +333,9 @@ class test_test extends CModule
             "LIST_PAGE_URL" => '',
             "DETAIL_PAGE_URL" => '',
             "IBLOCK_TYPE_ID" => $type,
-            "SITE_ID" => [test_test::SITE_ID],
-            'LID' => test_test::SITE_ID,
-            "GROUP_ID" => [test_test::ALL_USERS_GROUP_ID => test_test::READ_PERMISSION]
+            "SITE_ID" => [newtest_newtest::SITE_ID],
+            'LID' => newtest_newtest::SITE_ID,
+            "GROUP_ID" => [newtest_newtest::ALL_USERS_GROUP_ID => newtest_newtest::READ_PERMISSION]
         ];
         $id = $ib->Add($arFields);
         if (!($id > 0)) {
