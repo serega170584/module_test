@@ -36,73 +36,73 @@ echo \CAdminMessage::ShowNote("Тип инфоблока образовател�
 
 echo \CAdminMessage::ShowNote("Добавление свойств");
 $oUserTypeEntity = new CUserTypeEntity();
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_BEGIN_TIME',
     'datetime',
     'BEGIN_TIME',
     'Время начала',
     'Begin time');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_END_TIME',
     'datetime',
     'END_TIME',
     'Время окончания',
     'End time');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_SITE',
     'string',
     'SITE',
     'Сайт',
     'Site');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_DOCUMENT',
     'file',
     'DOCUMENT',
     'Документ',
     'Document');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_TIME_ADDITION',
     'string',
     'TIME_ADDITION',
     'Уточнение времени работы',
     'Time addition');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_GENERAL_EXPERIENCE',
     'string',
     'GENERAL_EXPERIENCE',
     'Общий стаж работы',
     'General experience');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_PROFESSION_EXPERIENCE',
     'string',
     'PROFESSION_EXPERIENCE',
     'Cтаж работы по специальности',
     'Profession experience');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_POSITION',
     'string',
     'POSITION',
     'Должность',
     'Position');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_SUBJECT',
     'string',
     'SUBJECT',
     'Преподаваемые дисциплины',
     'Subject');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_DEGREE',
     'string',
     'DEGREEE',
     'Ученая степень',
     'Degree');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_RANK',
     'string',
     'RANK',
     'Ученое звание',
     'Rank');
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_ASSESSMENT',
     'string',
     'ASSESSMENT',
@@ -113,38 +113,38 @@ echo \CAdminMessage::ShowNote("Свойства пользователя доб�
 echo \CAdminMessage::ShowNote("Добавление групп пользователей");
 
 $group = new \CGroup;
-$id = Edu::addUserGroup($group, 'Учредители', 'FOUNDERS');
-$id = Edu::addUserGroup($group, 'Филиалы', 'BRANCHES');
-$id = Edu::addUserGroup($group, 'Главный корпус', 'MAIN');
-$id = Edu::addUserGroup($group, 'Отдел', 'DEPARTMENT');
-$id = Edu::addUserGroup($group, 'Ученый совет', 'ACADEMIC_COUNCIL');
-$id = Edu::addUserGroup($group, 'Руководство', 'LEADERSHIP');
-$id = Edu::addUserGroup($group, 'Сотрудник', 'STAFF');
-$id = Edu::addUserGroup($group, 'Выпускник', 'GRADUATE');
+$id = Test::addUserGroup($group, 'Учредители', 'FOUNDERS');
+$id = Test::addUserGroup($group, 'Филиалы', 'BRANCHES');
+$id = Test::addUserGroup($group, 'Главный корпус', 'MAIN');
+$id = Test::addUserGroup($group, 'Отдел', 'DEPARTMENT');
+$id = Test::addUserGroup($group, 'Ученый совет', 'ACADEMIC_COUNCIL');
+$id = Test::addUserGroup($group, 'Руководство', 'LEADERSHIP');
+$id = Test::addUserGroup($group, 'Сотрудник', 'STAFF');
+$id = Test::addUserGroup($group, 'Выпускник', 'GRADUATE');
 echo \CAdminMessage::ShowNote("Группы пользователей добавлены");
 
 echo \CAdminMessage::ShowNote("Добавление инфомационных блоков");
 
 $ib = new \CIBlock;
-$documentsIblockId = Edu::addInfoblock($ib, 'Документы', Edu::DOCUMENTS_INFOBLOCK_CODE, $moduleId);
-$professionsIblockId = Edu::addInfoblock($ib, 'Специальности', Edu::PROFESSIONS_INFOBLOCK_CODE, $moduleId);
-$facultiesIblockId = Edu::addInfoblock($ib, 'Факультеты', Edu::FACULTIES_INFOBLOCK_CODE, $moduleId);
-$subjectsIblockId = Edu::addInfoblock($ib, 'Предметы', Edu::SUBJECTS_INFOBLOCK_CODE, $moduleId);
-$departmentIblockId = Edu::addInfoblock($ib, 'Кафедры', Edu::DEPARTMENTS_INFOBLOCK_CODE, $moduleId);
-$libraryIblockId = Edu::addInfoblock($ib, 'Библиотека', Edu::LIBRARY_INFOBLOCK_CODE, $moduleId);
-$newsIblockId = Edu::addInfoblock($ib, 'Новости', Edu::NEWS_INFOBLOCK_CODE, $moduleId);
-$advertisementIblockId = Edu::addInfoblock($ib, 'Объявления', Edu::ADVERTISEMENT_INFOBLOCK_CODE, $moduleId);
-$dormInfoblockId = Edu::addInfoblock($ib, 'Общежития', Edu::DORM_INFOBLOCK_CODE, $moduleId);
-$creativeInfoblockId = Edu::addInfoblock($ib, 'Творческие коллективы', Edu::CREATIVE_INFOBLOCK_CODE, $moduleId);
-$conferenceInfoblockId = Edu::addInfoblock($ib, 'Конференции', Edu::CONFERENCE_INFOBLOCK_CODE, $moduleId);
-$trainingMaterialsId = Edu::addInfoblock($ib, 'Учебные материалы', Edu::TRAINING_MATERIALS_INFOBLOCK_CODE, $moduleId);
-$reviewsInfoblockId = Edu::addInfoblock($ib, 'Отзывы', Edu::REVIEWS_INFOBLOCK_CODE, $moduleId);
-$trainingInfoblockId = Edu::addInfoblock($ib, 'Тренинги и семинары', Edu::TRAININGS_INFOBLOCK_CODE, $moduleId);
+$documentsIblockId = Test::addInfoblock($ib, 'Документы', Test::DOCUMENTS_INFOBLOCK_CODE, $moduleId);
+$professionsIblockId = Test::addInfoblock($ib, 'Специальности', Test::PROFESSIONS_INFOBLOCK_CODE, $moduleId);
+$facultiesIblockId = Test::addInfoblock($ib, 'Факультеты', Test::FACULTIES_INFOBLOCK_CODE, $moduleId);
+$subjectsIblockId = Test::addInfoblock($ib, 'Предметы', Test::SUBJECTS_INFOBLOCK_CODE, $moduleId);
+$departmentIblockId = Test::addInfoblock($ib, 'Кафедры', Test::DEPARTMENTS_INFOBLOCK_CODE, $moduleId);
+$libraryIblockId = Test::addInfoblock($ib, 'Библиотека', Test::LIBRARY_INFOBLOCK_CODE, $moduleId);
+$newsIblockId = Test::addInfoblock($ib, 'Новости', Test::NEWS_INFOBLOCK_CODE, $moduleId);
+$advertisementIblockId = Test::addInfoblock($ib, 'Объявления', Test::ADVERTISEMENT_INFOBLOCK_CODE, $moduleId);
+$dormInfoblockId = Test::addInfoblock($ib, 'Общежития', Test::DORM_INFOBLOCK_CODE, $moduleId);
+$creativeInfoblockId = Test::addInfoblock($ib, 'Творческие коллективы', Test::CREATIVE_INFOBLOCK_CODE, $moduleId);
+$conferenceInfoblockId = Test::addInfoblock($ib, 'Конференции', Test::CONFERENCE_INFOBLOCK_CODE, $moduleId);
+$trainingMaterialsId = Test::addInfoblock($ib, 'Учебные материалы', Test::TRAINING_MATERIALS_INFOBLOCK_CODE, $moduleId);
+$reviewsInfoblockId = Test::addInfoblock($ib, 'Отзывы', Test::REVIEWS_INFOBLOCK_CODE, $moduleId);
+$trainingInfoblockId = Test::addInfoblock($ib, 'Тренинги и семинары', Test::TRAININGS_INFOBLOCK_CODE, $moduleId);
 echo \CAdminMessage::ShowNote("Информационные блоки добавлены");
 
 echo \CAdminMessage::ShowNote("Добавление пользовательских свойств-привязок к элементам инфомационных блоков");
 
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_PROFESSION',
     'iblock_element',
     'PROFESSION',
@@ -156,7 +156,7 @@ Edu::addUserField($oUserTypeEntity,
     ]
 );
 
-Edu::addUserField($oUserTypeEntity,
+Test::addUserField($oUserTypeEntity,
     'UF_DEPARTMENT',
     'iblock_element',
     'PROFESSION',
@@ -171,249 +171,249 @@ echo \CAdminMessage::ShowNote("Пользовательские свойства
 
 echo \CAdminMessage::ShowNote("Добавление свойств инфомационных блоков");
 $property = new \CIBlockProperty();
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Файл',
-    Edu::DOCUMENT_INFOBLOCK_FILE_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::DOCUMENT_INFOBLOCK_FILE_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $documentsIblockId
 );
-$formOfEducationid = Edu::addInfoblockProperty($property,
+$formOfEducationid = Test::addInfoblockProperty($property,
     'Форма обучения',
-    Edu::PROFESSIONS_INFOBLOCK_FORM_OF_EDUCATION_PROPERTY_CODE,
-    Edu::LIST_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_FORM_OF_EDUCATION_PROPERTY_CODE,
+    Test::LIST_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Сроки обучения',
-    Edu::PROFESSIONS_INFOBLOCK_PERIOD_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PERIOD_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Срок гос. аккредитации',
-    Edu::PROFESSIONS_INFOBLOCK_ACCREDITATION_PERIOD_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_ACCREDITATION_PERIOD_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId,
-    Edu::DATE_TIME_INFOBLOCK_PROPERTY_USER_TYPE
+    Test::DATE_TIME_INFOBLOCK_PROPERTY_USER_TYPE
 );
-$levelId = Edu::addInfoblockProperty($property,
+$levelId = Test::addInfoblockProperty($property,
     'Уровень образования',
-    Edu::PROFESSIONS_INFOBLOCK_LEVEL_PROPERTY_CODE,
-    Edu::LIST_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_LEVEL_PROPERTY_CODE,
+    Test::LIST_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Код специальности, направления подготовки',
-    Edu::PROFESSIONS_INFOBLOCK_CODE_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_CODE_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Описание образовательной программы',
-    Edu::PROFESSIONS_INFOBLOCK_DESCRIPTION_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_DESCRIPTION_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Учебный план',
-    Edu::PROFESSIONS_INFOBLOCK_PLAN_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PLAN_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Аннотации к рабочим программам дисциплин',
-    Edu::PROFESSIONS_INFOBLOCK_ANNOTATIONS_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_ANNOTATIONS_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Календарный учебный график',
-    Edu::PROFESSIONS_INFOBLOCK_SCHEDULE_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_SCHEDULE_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Методические и иные документы',
-    Edu::PROFESSIONS_INFOBLOCK_METHODOLOGICAL_DOCUMENTS_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_METHODOLOGICAL_DOCUMENTS_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId,
     null,
     true
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Практики',
-    Edu::PROFESSIONS_INFOBLOCK_PRACTICES_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PRACTICES_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Численность лиц, обучающихся за счет бюджета',
-    Edu::PROFESSIONS_INFOBLOCK_BUDGET_COUNT_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_BUDGET_COUNT_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Численность лиц, находящихся на платном обучении',
-    Edu::PROFESSIONS_INFOBLOCK_PAYED_COUNT_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PAYED_COUNT_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Стоимость платных мест',
-    Edu::PROFESSIONS_INFOBLOCK_PRICE_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PRICE_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Профили подготовки',
-    Edu::PROFESSIONS_INFOBLOCK_PREPARATORY_PROFILE_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PREPARATORY_PROFILE_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Ключевые дисциплины',
-    Edu::PROFESSIONS_INFOBLOCK_PRINCIPAL_SUBJECTS_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PRINCIPAL_SUBJECTS_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$languagesId = Edu::addInfoblockProperty($property,
+$languagesId = Test::addInfoblockProperty($property,
     'Языки, на которых происходит обучение',
-    Edu::PROFESSIONS_INFOBLOCK_LANGUAGES_PROPERTY_CODE,
-    Edu::LIST_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_LANGUAGES_PROPERTY_CODE,
+    Test::LIST_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId,
     null,
     true
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Научно-исследовательская работа',
-    Edu::PROFESSIONS_INFOBLOCK_RESEARCHES_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_RESEARCHES_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Сведения о результатах приема',
-    Edu::PROFESSIONS_INFOBLOCK_RESULTS_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_RESULTS_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Результаты перевода и отчисления',
-    Edu::PROFESSIONS_INFOBLOCK_REPLACED_RESULTS_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_REPLACED_RESULTS_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId
 );
-$facultyId = Edu::addInfoblockProperty($property,
+$facultyId = Test::addInfoblockProperty($property,
     'Факультет',
-    Edu::INFOBLOCK_FACULTY_PROPERTY_CODE,
-    Edu::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_FACULTY_PROPERTY_CODE,
+    Test::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId,
     null,
     false,
     $facultiesIblockId
 );
-$preliminaryTestId = Edu::addInfoblockProperty($property,
+$preliminaryTestId = Test::addInfoblockProperty($property,
     'Вступительные испытания',
-    Edu::PROFESSIONS_INFOBLOCK_PRELIMINARY_TESTS_PROPERTY_CODE,
-    Edu::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
+    Test::PROFESSIONS_INFOBLOCK_PRELIMINARY_TESTS_PROPERTY_CODE,
+    Test::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
     $professionsIblockId,
     null,
     true,
     $subjectsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Факультет',
-    Edu::INFOBLOCK_FACULTY_PROPERTY_CODE,
-    Edu::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_FACULTY_PROPERTY_CODE,
+    Test::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
     $departmentIblockId,
     null,
     false,
     $facultiesIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Адрес',
-    Edu::INFOBLOCK_ADDRESS_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_ADDRESS_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $dormInfoblockId
 );
-$entityId = Edu::addInfoblockProperty($property,
+$entityId = Test::addInfoblockProperty($property,
     'Для кого показывать',
-    Edu::INFOBLOCK_ENTITY_PROPERTY_CODE,
-    Edu::LIST_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_ENTITY_PROPERTY_CODE,
+    Test::LIST_INFOBLOCK_PROPERTY_TYPE,
     $newsIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Руководители коллектива',
-    Edu::INFOBLOCK_CREATIVE_LEADERSHIP_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_CREATIVE_LEADERSHIP_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $creativeInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Расписание',
-    Edu::INFOBLOCK_SCHEDULE_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_SCHEDULE_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $creativeInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Время',
-    Edu::INFOBLOCK_TIME_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_TIME_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $creativeInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Место',
-    Edu::INFOBLOCK_PLACE_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_PLACE_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $creativeInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Сроки проведения',
-    Edu::INFOBLOCK_PERIOD_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_PERIOD_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $conferenceInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Организатор(факультет, лаборатория)',
-    Edu::INFOBLOCK_ORGANIZATOR_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_ORGANIZATOR_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $conferenceInfoblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Факультет',
-    Edu::INFOBLOCK_FACULTY_PROPERTY_CODE,
-    Edu::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_FACULTY_PROPERTY_CODE,
+    Test::ELEMENT_INFOBLOCK_PROPERTY_TYPE,
     $trainingMaterialsId,
     null,
     false,
     $facultiesIblockId
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Файл',
-    Edu::INFOBLOCK_FILE_PROPERTY_CODE,
-    Edu::FILE_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_FILE_PROPERTY_CODE,
+    Test::FILE_INFOBLOCK_PROPERTY_TYPE,
     $trainingMaterialsId,
 );
-$id = Edu::addInfoblockProperty($property,
+$id = Test::addInfoblockProperty($property,
     'Пользователь',
-    Edu::INFOBLOCK_USER_PROPERTY_CODE,
-    Edu::STRING_INFOBLOCK_PROPERTY_TYPE,
+    Test::INFOBLOCK_USER_PROPERTY_CODE,
+    Test::STRING_INFOBLOCK_PROPERTY_TYPE,
     $reviewsInfoblockId,
-    Edu::USER_INFOBLOCK_PROPERTY_USER_TYPE
+    Test::USER_INFOBLOCK_PROPERTY_USER_TYPE
 );
 echo \CAdminMessage::ShowNote("Свойства информационных блоков добавлены");
 
 echo \CAdminMessage::ShowNote("Добавление значений свойств инфомационных блоков");
 $iBPEnum = new CIBlockPropertyEnum;
-Edu::addEnumPropertyValue($iBPEnum, $formOfEducationid, 'заочная');
-Edu::addEnumPropertyValue($iBPEnum, $formOfEducationid, 'очная');
-Edu::addEnumPropertyValue($iBPEnum, $levelId, 'Бакалавриат');
-Edu::addEnumPropertyValue($iBPEnum, $levelId, 'Магистратура');
-Edu::addEnumPropertyValue($iBPEnum, $levelId, 'Специалист');
-Edu::addEnumPropertyValue($iBPEnum, $levelId, 'Аспирантура');
-Edu::addEnumPropertyValue($iBPEnum, $languagesId, 'Русский');
-Edu::addEnumPropertyValue($iBPEnum, $languagesId, 'Итальянский');
-Edu::addEnumPropertyValue($iBPEnum, $languagesId, 'Английский');
-Edu::addEnumPropertyValue($iBPEnum, $entityId, 'Студент');
-Edu::addEnumPropertyValue($iBPEnum, $entityId, 'ВУЗ');
+Test::addEnumPropertyValue($iBPEnum, $formOfEducationid, 'заочная');
+Test::addEnumPropertyValue($iBPEnum, $formOfEducationid, 'очная');
+Test::addEnumPropertyValue($iBPEnum, $levelId, 'Бакалавриат');
+Test::addEnumPropertyValue($iBPEnum, $levelId, 'Магистратура');
+Test::addEnumPropertyValue($iBPEnum, $levelId, 'Специалист');
+Test::addEnumPropertyValue($iBPEnum, $levelId, 'Аспирантура');
+Test::addEnumPropertyValue($iBPEnum, $languagesId, 'Русский');
+Test::addEnumPropertyValue($iBPEnum, $languagesId, 'Итальянский');
+Test::addEnumPropertyValue($iBPEnum, $languagesId, 'Английский');
+Test::addEnumPropertyValue($iBPEnum, $entityId, 'Студент');
+Test::addEnumPropertyValue($iBPEnum, $entityId, 'ВУЗ');
 echo \CAdminMessage::ShowNote("Значения свойств информационных блоков добавлены");
 $DB->Commit();
 ?>

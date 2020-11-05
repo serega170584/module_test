@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class Edu
+ * Class Test
  */
-class Edu extends CModule
+class Test extends CModule
 {
     const DIRECTORY = 'local/modules/edu/install';
     const ID = 'edu';
@@ -333,9 +333,9 @@ class Edu extends CModule
             "LIST_PAGE_URL" => '',
             "DETAIL_PAGE_URL" => '',
             "IBLOCK_TYPE_ID" => $type,
-            "SITE_ID" => [Edu::SITE_ID],
-            'LID' => Edu::SITE_ID,
-            "GROUP_ID" => [Edu::ALL_USERS_GROUP_ID => Edu::READ_PERMISSION]
+            "SITE_ID" => [Test::SITE_ID],
+            'LID' => Test::SITE_ID,
+            "GROUP_ID" => [Test::ALL_USERS_GROUP_ID => Test::READ_PERMISSION]
         ];
         $id = $ib->Add($arFields);
         if (!($id > 0)) {
