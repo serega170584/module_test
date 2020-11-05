@@ -3,10 +3,10 @@
 /**
  * Class Test
  */
-class newtest_newtest extends CModule
+class test_test extends CModule
 {
-    const DIRECTORY = 'local/modules/newtest.newtest/install';
-    const ID = 'newtest.newtest';
+    const DIRECTORY = 'local/modules/test.test/install';
+    const ID = 'test.test';
     const ALL_USERS_GROUP_ID = 2;
     const READ_PERMISSION = 'R';
     const DOCUMENTS_INFOBLOCK_CODE = 'DOCUMENTS';
@@ -107,7 +107,7 @@ class newtest_newtest extends CModule
          */
         global $DOCUMENT_ROOT, $APPLICATION, $DB, $moduleId;
         try {
-            UnRegisterModule('test_test');
+            RegisterModule(self::ID);
             $moduleId = self::ID;
             $APPLICATION->IncludeAdminFile("Установка модуля " . self::ID, $DOCUMENT_ROOT . "/" . self::DIRECTORY . "/step.php");
         } catch (\Exception $e) {
@@ -331,9 +331,9 @@ class newtest_newtest extends CModule
             "LIST_PAGE_URL" => '',
             "DETAIL_PAGE_URL" => '',
             "IBLOCK_TYPE_ID" => $type,
-            "SITE_ID" => [newtest_newtest::SITE_ID],
-            'LID' => newtest_newtest::SITE_ID,
-            "GROUP_ID" => [newtest_newtest::ALL_USERS_GROUP_ID => newtest_newtest::READ_PERMISSION]
+            "SITE_ID" => [test_test::SITE_ID],
+            'LID' => test_test::SITE_ID,
+            "GROUP_ID" => [test_test::ALL_USERS_GROUP_ID => test_test::READ_PERMISSION]
         ];
         $id = $ib->Add($arFields);
         if (!($id > 0)) {
