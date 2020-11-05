@@ -107,7 +107,7 @@ class newtest_newtest extends CModule
          */
         global $DOCUMENT_ROOT, $APPLICATION, $DB, $moduleId;
         try {
-            UnRegisterModule('newtest_newtest');
+            UnRegisterModule('test_test');
             $moduleId = self::ID;
             $APPLICATION->IncludeAdminFile("Установка модуля " . self::ID, $DOCUMENT_ROOT . "/" . self::DIRECTORY . "/step.php");
         } catch (\Exception $e) {
