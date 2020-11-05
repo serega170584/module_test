@@ -64,7 +64,7 @@ class test_test extends CModule
     const DATE_TIME_INFOBLOCK_PROPERTY_USER_TYPE = 'DateTime';
     const USER_INFOBLOCK_PROPERTY_USER_TYPE = 'UserID';
 
-    var $MODULE_ID = "newtest.newtest";
+    var $MODULE_ID = "test.test";
     var $MODULE_VERSION;
     var $MODULE_VERSION_DATE;
     var $MODULE_NAME;
