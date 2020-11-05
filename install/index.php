@@ -6,7 +6,7 @@
 class newtest_newtest extends CModule
 {
     const DIRECTORY = 'local/modules/newtest.newtest/install';
-    const ID = 'newtest_newtest';
+    const ID = 'newtest.newtest';
     const ALL_USERS_GROUP_ID = 2;
     const READ_PERMISSION = 'R';
     const DOCUMENTS_INFOBLOCK_CODE = 'DOCUMENTS';
@@ -107,7 +107,7 @@ class newtest_newtest extends CModule
          */
         global $DOCUMENT_ROOT, $APPLICATION, $DB, $moduleId;
         try {
-            RegisterModule(self::ID);
+            UnRegisterModule('newtest_newtest');
             $moduleId = self::ID;
             $APPLICATION->IncludeAdminFile("Установка модуля " . self::ID, $DOCUMENT_ROOT . "/" . self::DIRECTORY . "/step.php");
         } catch (\Exception $e) {
