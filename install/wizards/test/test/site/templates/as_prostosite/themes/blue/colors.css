@@ -1,0 +1,6 @@
+div#header {background:#336699;}
+div#topmenu ul li {background:#417ea5;}
+div#topmenu ul li:hover {background:#4e96c4;}
+div#topmenu ul li.selected {background:#4e96c4;}
+div#topmenu ul li a {color:#FFF;}
+div#topmenu ul li a:hover {color:#FFF;}

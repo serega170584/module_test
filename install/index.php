@@ -38,15 +38,15 @@ var $PARTNER_URI;
     function InstallDB() 
     { 
         RegisterModule($this->MODULE_ID); 
-        UnRegisterModuleDependences("main", "OnEndBufferContent", "ambersite.prostositelight", "ambersite_prostositelight", "ambersite_prostositelight"); 
-        RegisterModuleDependences("main", "OnEndBufferContent", "ambersite.prostositelight", "ambersite_prostositelight", "ambersite_prostositelight", "10");
+        UnRegisterModuleDependences("main", "OnEndBufferContent", "test.test", "ambersite_prostositelight", "ambersite_prostositelight");
+        RegisterModuleDependences("main", "OnEndBufferContent", "test.test", "ambersite_prostositelight", "ambersite_prostositelight", "10");
         return true; 
     } 
      
     function UnInstallDB() 
     { 
         COption::RemoveOption($this->MODULE_ID); 
-        UnRegisterModuleDependences("main", "OnEndBufferContent", "ambersite.prostositelight", "ambersite_prostositelight", "ambersite_prostositelight"); 
+        UnRegisterModuleDependences("main", "OnEndBufferContent", "test.test", "ambersite_prostositelight", "ambersite_prostositelight");
         UnRegisterModule($this->MODULE_ID);         
         return true; 
     } 
@@ -56,7 +56,7 @@ var $PARTNER_URI;
         global $DOCUMENT_ROOT, $APPLICATION, $DB; 
         $this->InstallDB(); 
 		$APPLICATION->IncludeAdminFile(GetMessage("ambersite_prostositelight_INSTALL_TITLE"), $DOCUMENT_ROOT."/bitrix/modules/".$this->MODULE_ID."/install/step.php");
-        //LocalRedirect("/bitrix/admin/wizard_install.php?lang=ru&wizardName=ambersite.prostositelight:ambersite:asprostositelight&".bitrix_sessid_get()); 
+        //LocalRedirect("/bitrix/admin/wizard_install.php?lang=ru&wizardName=test.test:ambersite:asprostositelight&".bitrix_sessid_get());
     } 
 
     function DoUninstall() 

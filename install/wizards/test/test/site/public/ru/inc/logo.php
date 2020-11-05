@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/img/9e644227a8c49c84950a0a61cea5b8b8.png" />
