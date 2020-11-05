@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72e3c3b8-875e-4d88-a2a5-09dadd2f64ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/module_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/images/ru/box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/images/ru/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/images/ru/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/lang/ru/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/lang/ru/site/services/.services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/lang/ru/wizard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/component.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/images/catalog.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/lang/en/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/lang/ru/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.compare.result/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/wait.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/black/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/blue/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/green/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/red/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/yellow/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.element/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.filter/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.filter/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.filter/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.link.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.link.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.link.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.link.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/bitrix/search.page/.default/chain_template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/bitrix/search.page/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.search/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/images/line-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/images/tile-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/list/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/list/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/list/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.section/list/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/banner/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/section/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/black/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/black/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/blue/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/blue/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/green/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/green/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/red/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/red/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/wood/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/wood/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/yellow/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/yellow/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/slider/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/catalog.top/slider/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/noavatar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/add_button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/delete.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_bold.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_code.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_color.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_italic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_link.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_list.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_translit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/font_underline.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/toolbarbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/images/postform/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/ru/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/script_deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/forum.topic.reviews/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/bitrix/iblock.vote/stars/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/compare.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/sections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/catalog/templates/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/component.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/images/main.getcode.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/lang/ru/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/gallery/templates/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/component.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/images/main.getcode.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/lang/ru/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/templates/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/logo/templates/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/component.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/images/main.getcode.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/lang/ru/.description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/images/bx_loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/jquery.bxslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/jquery.bxslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/jquery.bxslider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/plugins/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/plugins/jquery.fitvids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/jquery.bxslider/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/as_components/ambersite/slider/templates/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/.top.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/_index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/about/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/about/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/contacts/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/contacts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/gallery/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/gallery/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/inc/copy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/inc/logo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/inc/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/inc/phone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/inc/slogan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/services/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/public/ru/services/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/.services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/catalog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/catalog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/logo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/lang/ru/types.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/logo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/types.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/09f/09f334c7d12d4f082a625c8bc4705c6e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/163/16369d73422957136f4e655c22806c56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/16b/16bb306978dd3e4ba5695c118e3ca64c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/1d0/1d0d7ed93b0574e1152b2dc4aef01459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/232/232467758174377ef5d69dc9cb334f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/33a/33aed5f6ba6bfa5ee04be870963f798a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/418/41853c04f4961732d9c856f15b13e599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/4dd/4dd8ca53630c7ee7c59a04a6a07dc798.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/89f/89fec06589477bedb5a7c35bf689cbb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/919/91996f3fbf891441adbb5ccc2299ba4e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/a73/a73f39952529314d9bc057ab05a37603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/b53/b536b5c4d9d3ac4995f6bde95645caca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/b59/b59e05cf62a31af094960a4c738a9a08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/d91/d919142215b8259546eea0628adf7d50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/dea/deaeed57f091ecb5340c22c18b8a00e0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/e2d/e2d445d3ca959b4475eac63d902184a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/catalog_files/iblock/f57/f57dbc0cd61612dab635a5c9438f087b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/000/00047906bf05c1faa9a0048ff0f7f995.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/3ec/3eca4f6fc562c2fac707701a3e591349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/417/417f35f10eb859c85380d2d9d220eda6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/43e/43e8319f27da3852a521abe2b6e2a973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/489/489091b0741e8330a6f79ac6357a6f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/5ae/5ae53190859aedd079a41b063c6d1a0f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/5de/5de8ceb39af1a3178990953efaf441e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/fdb/fdb4339742320b9bacdf91d49e4b0efc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/gallery_files/iblock/ff8/ff83d11f4aebd62b55543ab16c65c9d8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/logo_files/iblock/9e6/9e644227a8c49c84950a0a61cea5b8b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/16a/16a99de40886a8021c7762bf27c674ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/305/305784bd24358c0d494ecb9a1ec2bf53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/4cf/4cf72b9fbbfe86399c0bb9614eea2095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/64d/64da396b4d573873006c7470db7a64d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/da9/da960d4acd93f2fdd4e3b70e3023cc51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/news_files/iblock/f7b/f7b813588b6a90d2f599f3d194c68dff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/3be/3bede866fcc3c3088fccbd12579403aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/47a/47ab33531414f45df4a5bc1cd3c7abe6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/5d7/5d7a36abf8b31e12788e47121f13529a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/67b/67b72311f59d9211943ee189976ab561.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/9dd/9dd86bf224bb1c0ef574af07fd38ef80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/iblock/xml/ru/slider_files/iblock/ade/ade73f8935f534277f2e58a37e73a6ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/components.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/lang/ru/group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/lang/ru/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/services/main/theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/.styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.compare.result/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/wait.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/black/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/blue/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/green/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/red/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/yellow/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.element/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.filter/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.filter/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.filter/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.link.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.link.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.link.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.link.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/bitrix/search.page/.default/chain_template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/bitrix/search.page/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.search/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/images/line-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/images/tile-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/.default/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/list/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/list/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/list/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.section/list/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/price_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/bt_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/price_bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/banner/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/section/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/arr_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/fade_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/fade_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/no_prop_value.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/stick_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/x2border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/black/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/black/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/black/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/black/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/blue/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/blue/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/blue/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/blue/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/green/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/green/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/green/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/green/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/red/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/red/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/red/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/red/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/wood/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/wood/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/wood/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/wood/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/yellow/images/pagination_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/yellow/images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/yellow/images/x2border_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/slider/themes/yellow/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/catalog.top/slider/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/noavatar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/add_button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/delete.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_bold.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_code.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_color.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_italic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_link.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_list.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_translit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/font_underline.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/toolbarbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/images/postform/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/ru/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/script_deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/forum.topic.reviews/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/bitrix/iblock.vote/stars/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/compare.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/sections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/catalog/ambersite_catalog/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/map.yandex.view/as_map/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/map.yandex.view/as_map/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/map.yandex.view/as_map/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/map.yandex.view/as_map/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/map.yandex.view/as_map/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/components/bitrix/menu/ambersite_top/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/9e644227a8c49c84950a0a61cea5b8b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/pict1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/pict2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/img/pict3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/js/jquery-2.1.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/js/panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/lang/ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/lang/ru/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/template_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/black/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/blue/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/cherry/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/gray/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/green/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/lang/ru/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/lang/ru/preview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/lang/ru/screen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/site/templates/as_prostosite/themes/orange/lang/ru/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install/wizards/ambersite/asprostositelight/wizard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/ru/install/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/error_step.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/error_unstep.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/install/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/step.php" beforeDir="false" afterPath="$PROJECT_DIR$/install/step.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/unstep.php" beforeDir="false" afterPath="$PROJECT_DIR$/install/unstep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/install/version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards/test/test/.description.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards/test/test/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards/test/test/scripts/start_install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards/test/test/scripts/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/wizards/test/test/scripts/wizard.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jroRblgwQYDv652hVsNAcVUIPe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krivobokov.sv\PhpstormProjects\module_test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72e3c3b8-875e-4d88-a2a5-09dadd2f64ba" name="Default Changelist" comment="" />
+      <created>1604571563667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604571563667</updated>
+      <workItem from="1604571564823" duration="7499000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1604571668188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604571668188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1604571761247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604571761247</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1604571925505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604571925505</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add module">
+      <created>1604576061503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604576061503</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit 07f946c2">
+      <created>1604576457628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604576457628</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit 07f946c2">
+      <created>1604576697921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604576697921</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix step files">
+      <created>1604577394833</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604577394833</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix module name">
+      <created>1604578195301</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604578195301</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix module name">
+      <created>1604579720548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604579720548</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix module name">
+      <created>1604580216796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604580216796</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix module name">
+      <created>1604580316528</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604580316528</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix module name">
+      <created>1604580449487</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604580449487</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix module name">
+      <created>1604580585477</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604580585477</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix module name">
+      <created>1604580653806</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604580653806</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="add module" />
+    <MESSAGE value="Revert &quot;test&quot;&#10;&#10;This reverts commit 07f946c2" />
+    <MESSAGE value="fix step files" />
+    <MESSAGE value="fix module name" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix module name" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="0" key="CommitChangelistDialog2" timestamp="1604580653060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604580653060" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1604576440480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604576440480" />
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1604576440485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604576440485" />
+    <state x="516" y="115" key="RollbackChangesDialog" timestamp="1604577774648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604577774648" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604580655796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604580655796" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1604580564901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604580564901" />
+  </component>
+</project>

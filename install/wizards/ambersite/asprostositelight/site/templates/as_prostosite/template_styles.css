@@ -1,0 +1,44 @@
+/*@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=latin,cyrillic);*/
+html {height:100%;}
+body {margin:0 auto; padding:0; height:100%; font-family:'Roboto Condensed'; font-size:16px; color:#333;}
+a {color:#09C;}
+div#panel {}
+div#header {min-height:100px; width:100%; clear:both; position:fixed; top:0; box-shadow:0px 0px 20px rgba(0,0,0,0.4); z-index:99;}
+div#headerin {height:100px; width:1200px; margin:0 auto; position:relative;}
+div#toplogo {height:100%; float:left; display:table; margin:0 30px 0 30px;}
+div#toplogo a {display:table-cell; vertical-align:middle;}
+div#toplogo img {border:0;}
+div#topmenu {float:left; position:relative;}
+div#topmenuin {height:100%; position:absolute; top:54px; width:10000px;}
+div#topmenu ul {list-style:none; margin:0; padding:0;}
+div#topmenu ul li {display:inline-block; margin:0 20px 0 0;}
+div#topmenu ul li:hover {96c4; transition:0.3s;}
+div#topmenu ul li a {text-decoration:none; display:block; padding:8px 15px 8px 15px; font-weight:400;}
+div#slogan {margin:11px 0 0 2px; line-height:1em; color:#FFF;}
+div#topphone {position:absolute; right:50px; top:10px; font-size:26px; color:#FFF;}
+
+div#body {min-height:100%; width:1200px; margin:0 auto; background:; box-shadow:0px 0px 20px rgba(0,0,0,0.4);}
+div#bodyin {}
+div#workarea {background:; margin:0 30px 0 30px; padding:120px 0 80px 0;}
+div#workarea h1 {font-size:30px; font-weight:normal; margin:0 0 20px 0; line-height:1em;}
+#workarea img {margin:5px 10px 10px 10px; border:none;}
+#workarea img.left {margin-left:0; float:left;}
+#workarea img.right {margin-right:0; float:right;}
+#workarea table {width:100%; border-collapse:collapse;}
+#workarea table td {border:1px solid #ccc; padding:10px; vertical-align:top;}
+#workarea table.empty td {border:none;}
+#workarea .vcard {line-height:1.5em;}
+
+div#footer {height:60px; position:relative; margin-top:-61px; background: #CCC; width:100%; border-top:1px solid #BCBCBC; box-shadow:0px 0px 20px rgba(0,0,0,0.4);}
+div#footerin {width:1200px; height:100%; margin:0 auto; display:table;}
+div#footerinin {display:table-cell; vertical-align:middle; clear:both;}
+div#fleft {display:inline-block; float:left; margin:0 0 0 20px; font-size:14px;}
+div#fright {display:inline-block; float:right; margin:0 20px 0 0; font-size:14px; position:relative;}
+div#bx-composite-banner {position:absolute; bottom:-8px; left:-220px; display:block;}
+
+.news-list table td {border:none !important;}
+.news-detail table {width:inherit !important;}
+.news-detail table td {border:none !important; padding: inherit !important; vertical-align:inherit !important;}
+.bx_item_detail_rating {width:auto !important;}
+.bx_item_detail_rating td {border:none !important; padding: inherit !important; vertical-align:inherit !important;}
+.bx-wrapper img {margin:inherit !important; border:none;}
