@@ -107,7 +107,6 @@ class newtest_newtest extends CModule
          */
         global $DOCUMENT_ROOT, $APPLICATION, $DB, $moduleId;
         try {
-            $DB->StartTransaction();
             RegisterModule(self::ID);
             $moduleId = self::ID;
             $APPLICATION->IncludeAdminFile("Установка модуля " . self::ID, $DOCUMENT_ROOT . "/" . self::DIRECTORY . "/step.php");
@@ -123,7 +122,6 @@ class newtest_newtest extends CModule
          */
         global $DOCUMENT_ROOT, $APPLICATION, $DB, $moduleId;
         try {
-            $DB->StartTransaction();
             UnRegisterModule(self::ID);
             $moduleId = self::ID;
             $APPLICATION->IncludeAdminFile("Деинсталляция модуля " . self::ID, $DOCUMENT_ROOT . "/" . self::DIRECTORY . "/unstep.php");
