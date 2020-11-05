@@ -6,7 +6,7 @@
 class Test extends CModule
 {
     const DIRECTORY = 'local/modules/edu/install';
-    const ID = 'edu';
+    const ID = 'test';
     const ALL_USERS_GROUP_ID = 2;
     const READ_PERMISSION = 'R';
     const DOCUMENTS_INFOBLOCK_CODE = 'DOCUMENTS';
